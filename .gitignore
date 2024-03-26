@@ -12,3 +12,9 @@ yarn.lock
 
 # ignore data.json files with keys in the obsidian folder
 .obsidian/**/data.json
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections
