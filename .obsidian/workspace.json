@@ -4,57 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2a33b8ea337dd6c8",
+        "id": "5e957409ec5acb8c",
         "type": "tabs",
         "children": [
           {
-            "id": "59619b19d2169d07",
+            "id": "c7d67594e85fac29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08e8dc846fd727d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lists/Urls to save.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20d914c4f1148c35",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documentation/Studies/Brain Enhancement Techniques Listed In a CIA Document.pdf"
-              }
-            }
-          },
-          {
-            "id": "8eb05cdc276b9274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Wikipedia/Acupuncture - Wiki.md",
+                "file": "Scripts/Urls to save.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "total biology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Wikipedia/Acupuncture - Wiki.md",
+                "file": "Scripts/Urls to save.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Wikipedia/Acupuncture - Wiki.md",
+                "file": "Scripts/Urls to save.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/Wikipedia/Acupuncture - Wiki.md"
+                "file": "Scripts/Urls to save.md"
               }
             }
           },
@@ -202,44 +167,44 @@
       "smart-second-brain:Smart Second Brain": false
     }
   },
-  "active": "8eb05cdc276b9274",
+  "active": "c7d67594e85fac29",
   "lastOpenFiles": [
+    "Scripts/Knowledge to add.md",
     "Scripts/README.md",
+    "Scripts/Urls to save.md",
+    "Scripts/Wikipedia.md",
+    "Web Documentation/Brain Enhancement Techniques Listed In a CIA Document.md",
+    "Interpretations of quantum mechanics.md",
+    "traditional Chinese medicine.md",
     "2024-03-25.md",
-    "Documentation/Wikipedia/Acupuncture - Wiki.md",
+    "Web Documentation/Studies/Brain Enhancement Techniques Listed In a CIA Document.pdf",
+    "README.md",
+    "Web Documentation/Wikipedia/Alternative_medicine - Wiki.md",
+    "Web Documentation/Wikipedia/Pseudoscience - Wiki.md",
+    "Web Documentation/Wikipedia/Einstein%27s_thought_experiments - Wiki.md",
+    "Web Documentation/Wikipedia/Newton%27s_law_of_universal_gravitation - Wiki.md",
+    "Web Documentation/Wikipedia/Dirac_equation - Wiki.md",
+    "Web Documentation/Wikipedia/Acupuncture - Wiki.md",
+    "topological space.md",
+    "gravity.md",
+    "Untitled.canvas",
     "Chats/New Chat.md",
-    "Documentation/Wikipedia/Alternative_medicine - Wiki.md",
-    "Brain Enhancement Techniques Listed In a CIA Document.md",
-    "Documentation/Wikipedia/Wave–particle_duality - Wiki.md",
-    "Documentation/Wikipedia/Virtual_particle - Wiki.md",
-    "Documentation/Wikipedia/Unitarity_(physics) - Wiki.md",
-    "Documentation/Wikipedia/Uncertainty_principle - Wiki.md",
-    "Documentation/Wikipedia/Treatise_on_Light - Wiki.md",
-    "Documentation/Wikipedia/Theory_of_relativity - Wiki.md",
-    "Documentation/Wikipedia/The_Selfish_Gene - Wiki.md",
-    "Documentation/Wikipedia/String_theory - Wiki.md",
-    "Documentation/Wikipedia/Stationary-action_principle - Wiki.md",
-    "Documentation/Wikipedia/Standard_Model - Wiki.md",
-    "Documentation/Wikipedia/Special_relativity - Wiki.md",
-    "Documentation/Wikipedia/Schrödinger's_cat - Wiki.md",
-    "Documentation/Wikipedia/Ryke_Geerd_Hamer - Wiki.md",
-    "Documentation/Wikipedia/Quantum_tunnelling - Wiki.md",
-    "Documentation/Wikipedia/Quantum_superposition - Wiki.md",
-    "Documentation/Wikipedia/Quantum_state - Wiki.md",
-    "Documentation/Wikipedia/Quantum_simulator - Wiki.md",
-    "Documentation/Wikipedia/Quantum_mechanics - Wiki.md",
-    "Documentation/Wikipedia/Quantum_field_theory - Wiki.md",
-    "Documentation/Wikipedia/Quantum_entanglement - Wiki.md",
+    "Web Documentation/Wikipedia/Wave–particle_duality - Wiki.md",
+    "Web Documentation/Wikipedia/Virtual_particle - Wiki.md",
+    "Web Documentation/Wikipedia/Unitarity_(physics) - Wiki.md",
+    "Web Documentation/Wikipedia/Uncertainty_principle - Wiki.md",
+    "Web Documentation/Wikipedia/Treatise_on_Light - Wiki.md",
+    "Web Documentation/Wikipedia/Theory_of_relativity - Wiki.md",
+    "Web Documentation/Wikipedia/The_Selfish_Gene - Wiki.md",
+    "Web Documentation/Wikipedia/String_theory - Wiki.md",
     "Scripts/getHtml.js",
     "Scripts/fetch.js",
     "Scripts/fetch.ts",
     "Scripts/wikipedia.js",
-    "Documentation/Studies/Brain Enhancement Techniques Listed In a CIA Document.pdf",
-    "Documentation/01_02_hamer_e_neu.pdf",
-    "Documentation/Studies",
-    "Documentation/The Symbolosphere, Conceptualiztion, Language and Neo-Dualism.pdf",
-    "Documentation/Could Digital Telepathy Render Language Obsolete_ _ Psychology Today Canada.pdf",
-    "Documentation/A Mind for Language_ How Language Shapes Our Reality.pdf",
-    "Untitled.canvas"
+    "Web Documentation/01_02_hamer_e_neu.pdf",
+    "Web Documentation/Studies",
+    "Web Documentation/The Symbolosphere, Conceptualiztion, Language and Neo-Dualism.pdf",
+    "Web Documentation/Could Digital Telepathy Render Language Obsolete_ _ Psychology Today Canada.pdf",
+    "Web Documentation/A Mind for Language_ How Language Shapes Our Reality.pdf"
   ]
 }

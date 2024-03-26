@@ -1,0 +1,13 @@
+https://en.wikipedia.org/wiki/Critical_brain_hypothesis
+https://en.wikipedia.org/wiki/Critical_brain_hypothesis
+https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001700210016-5.pdf
+https://www.cia.gov/readingroom/docs/project%20mk-ultra%5B15545700%5D.pdf
+https://www.forbes.com/sites/traversmark/2024/03/20/a-psychologist-explains-the-phenomenon-of-reality-shifting/amp/
+https://www.iflscience.com/in-1983-the-cia-wrote-a-bizarre-report-about-transcending-spacetime-with-your-mind-59016
+https://www.ini.usc.edu/
+https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf
+https://www.ncbi.nlm.nih.gov/
+https://www.unco.edu/assault-survivors-advocacy-program/learn_more/neurobiology_of_trauma.aspx
+https://www.youtube.com/watch?v=hmtQPrH-gC4
+https://www.youtube.com/watch?v=zMK8bPEerEM
+https://youtu.be/m0rHZ_RDdyQ?si=hNmnoyQuTX1YRoRp
