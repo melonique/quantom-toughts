@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "622050bebef4caa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a33b8ea337dd6c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59619b19d2169d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08e8dc846fd727d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lists/Urls to save.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20d914c4f1148c35",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documentation/Studies/Brain Enhancement Techniques Listed In a CIA Document.pdf"
+              }
+            }
+          },
+          {
+            "id": "8eb05cdc276b9274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/Wikipedia/Acupuncture - Wiki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5335f0246f19b366",
+    "type": "split",
+    "children": [
+      {
+        "id": "106e6068570f2282",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08a4710007261d11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfb3b335929a9894",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73d3c63c9de93bb5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "194896908de949af",
+            "type": "leaf",
+            "state": {
+              "type": "runjs-codelist-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a6fa51439602e72",
+    "type": "split",
+    "children": [
+      {
+        "id": "848ba562caf9e8ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c02d6dc95fcd04c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Documentation/Wikipedia/Acupuncture - Wiki.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67b42bde77c6e89c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Documentation/Wikipedia/Acupuncture - Wiki.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12cd6ff57eaf304f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dff666d44a378b62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Documentation/Wikipedia/Acupuncture - Wiki.md"
+              }
+            }
+          },
+          {
+            "id": "b510d0267429170a",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 497.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "whisper:Open recording controls": false,
+      "smart-second-brain:Smart Second Brain": false
+    }
+  },
+  "active": "8eb05cdc276b9274",
+  "lastOpenFiles": [
+    "Scripts/README.md",
+    "2024-03-25.md",
+    "Documentation/Wikipedia/Acupuncture - Wiki.md",
+    "Chats/New Chat.md",
+    "Documentation/Wikipedia/Alternative_medicine - Wiki.md",
+    "Brain Enhancement Techniques Listed In a CIA Document.md",
+    "Documentation/Wikipedia/Wave–particle_duality - Wiki.md",
+    "Documentation/Wikipedia/Virtual_particle - Wiki.md",
+    "Documentation/Wikipedia/Unitarity_(physics) - Wiki.md",
+    "Documentation/Wikipedia/Uncertainty_principle - Wiki.md",
+    "Documentation/Wikipedia/Treatise_on_Light - Wiki.md",
+    "Documentation/Wikipedia/Theory_of_relativity - Wiki.md",
+    "Documentation/Wikipedia/The_Selfish_Gene - Wiki.md",
+    "Documentation/Wikipedia/String_theory - Wiki.md",
+    "Documentation/Wikipedia/Stationary-action_principle - Wiki.md",
+    "Documentation/Wikipedia/Standard_Model - Wiki.md",
+    "Documentation/Wikipedia/Special_relativity - Wiki.md",
+    "Documentation/Wikipedia/Schrödinger's_cat - Wiki.md",
+    "Documentation/Wikipedia/Ryke_Geerd_Hamer - Wiki.md",
+    "Documentation/Wikipedia/Quantum_tunnelling - Wiki.md",
+    "Documentation/Wikipedia/Quantum_superposition - Wiki.md",
+    "Documentation/Wikipedia/Quantum_state - Wiki.md",
+    "Documentation/Wikipedia/Quantum_simulator - Wiki.md",
+    "Documentation/Wikipedia/Quantum_mechanics - Wiki.md",
+    "Documentation/Wikipedia/Quantum_field_theory - Wiki.md",
+    "Documentation/Wikipedia/Quantum_entanglement - Wiki.md",
+    "Scripts/getHtml.js",
+    "Scripts/fetch.js",
+    "Scripts/fetch.ts",
+    "Scripts/wikipedia.js",
+    "Documentation/Studies/Brain Enhancement Techniques Listed In a CIA Document.pdf",
+    "Documentation/01_02_hamer_e_neu.pdf",
+    "Documentation/Studies",
+    "Documentation/The Symbolosphere, Conceptualiztion, Language and Neo-Dualism.pdf",
+    "Documentation/Could Digital Telepathy Render Language Obsolete_ _ Psychology Today Canada.pdf",
+    "Documentation/A Mind for Language_ How Language Shapes Our Reality.pdf",
+    "Untitled.canvas"
+  ]
+}

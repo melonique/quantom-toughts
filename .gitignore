@@ -1,0 +1,14 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore npm debug log
+npm-debug.log
+
+# Ignore yarn.lock file
+yarn.lock
+
+# Ignore .env file (contains sensitive information)
+.env
+
+# ignore data.json files with keys in the obsidian folder
+.obsidian/**/data.json
