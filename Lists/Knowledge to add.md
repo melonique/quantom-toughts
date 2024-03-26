@@ -1,0 +1,36 @@
+- [ ] Le principe de la moindre action - Pierre de Maupertuis
+- [ ] La loi universelle de la gravitation - Isaac Newton
+- [ ] La théorie ondulatoire - Christiaan Huygens
+- [ ] L'électromagnétisme - James Clerk Maxwell
+- [ ] La théorie de la relativité - Albert Einstein
+- [ ] La mécanique quantique - Werner Heisenberg, Erwin Schrödinger
+- [ ] Le chat de Schrödinger - Erwin Schrödinger
+- [ ] L'implication quantique - (Concept général de la mécanique quantique, pas attribué spécifiquement)
+- [ ] La théorie quantique des champs - (Plusieurs contributeurs, pas attribué à une seule personne)
+- [ ] Le gène égoïste - Richard Dawkins
+- [ ] Le lamarckisme - Jean-Baptiste Lamarck
+- [ ] L'origine du langage - (Diverses théories, pas attribué à une seule personne)
+- [ ] La psychanalyse - Sigmund Freud
+- [ ] Le béhaviorisme - John B. Watson
+- [ ] La psychologie cognitive - (Pas attribué à une seule personne, domaine de recherche)
+- [ ] La médecine génétique - (Domaine de recherche, pas attribué à une seule personne)
+- [ ] La médecine non conventionnelle - (Terme général, pas attribué à une seule personne)
+- [ ] L'effet placebo - (Phénomène général, pas attribué à une seule personne)
+- [ ] Le principe anthropique - Brandon Carter
+- [ ] Les univers parallèles - (Concept théorique, pas attribué spécifiquement)
+- [ ] Le scénario ekpyrotique - Paul Steinhardt, Neil Turok
+- [ ] Principe d'incertitude - Werner Heisenberg (Quantom)
+- [ ] Équation de Schrödinger - Erwin Schrödinger (Quantom)
+- [ ] Dualité onde-particule - Louis de Broglie, Niels Bohr (Quantom)
+- [ ] Principe de superposition - (Concept général, pas attribué à une seule personne) (Quantom)
+- [ ] Intrication quantique - Erwin Schrödinger, concept développé suite aux travaux  (Quantom)d'Einstein, Podolsky, Rosen (EPR)
+- [ ] Décohérence quantique - Wojciech H. Zurek parmi d'autres (Quantom)
+- [ ] Postulat de Born (Règle de Born) - Max Born (Quantom)
+- [ ] Principe d'exclusion de Pauli - Wolfgang Pauli (Quantom)
+- [ ] Théorie de la mesure en mécanique quantique - John von Neumann (Quantom)
+- [ ] Principe de correspondance - Niels Bohr (Quantom)
+- [ ] Biologie totale
+- [ ] https://www.unco.edu/assault-survivors-advocacy-program/learn_more/neurobiology_of_trauma.aspx#:~:text=When%20a%20person%20is%20experiencing,such%20as%20calling%20for%20help.
+- [ ] https://www.ini.usc.edu/
+- [ ] https://youtu.be/m0rHZ_RDdyQ?si=hNmnoyQuTX1YRoRp
+- [ ] https://www.youtube.com/watch?v=hmtQPrH-gC4
