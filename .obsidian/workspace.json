@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripts/Wikipedia.md",
+                "file": "Chats/New Chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripts/Wikipedia.md",
+                "file": "Chats/New Chat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripts/Wikipedia.md"
+                "file": "Chats/New Chat.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,18 +171,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "whisper:Open recording controls": false
+      "whisper:Open recording controls": false,
+      "smart-second-brain:Smart Second Brain": false,
+      "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "9290c13c41f51921",
+  "active": "b510d0267429170a",
   "lastOpenFiles": [
+    "Scripts/Wikipedia.md",
+    "Chats/New Chat.md",
+    "Web Documentation/Wikipedia/Acupuncture - Wiki.md",
     "Web Documentation/Wikipedia/Critical_brain_hypothesis - Wiki.md",
     "Scrapes/Critical_brain_hypothesis - Wiki.md",
     "Scripts/Urls to save.md",
     "Web Documentation/Brain Enhancement Techniques Listed In a CIA Document.md",
     "Scripts/README.md",
     "Scripts/Knowledge to add.md",
-    "Scripts/Wikipedia.md",
     "Interpretations of quantum mechanics.md",
     "traditional Chinese medicine.md",
     "2024-03-25.md",
@@ -193,11 +197,9 @@
     "Web Documentation/Wikipedia/Einstein%27s_thought_experiments - Wiki.md",
     "Web Documentation/Wikipedia/Newton%27s_law_of_universal_gravitation - Wiki.md",
     "Web Documentation/Wikipedia/Dirac_equation - Wiki.md",
-    "Web Documentation/Wikipedia/Acupuncture - Wiki.md",
     "topological space.md",
     "gravity.md",
     "Untitled.canvas",
-    "Chats/New Chat.md",
     "Web Documentation/Wikipedia/Wave–particle_duality - Wiki.md",
     "Web Documentation/Wikipedia/Virtual_particle - Wiki.md",
     "Web Documentation/Wikipedia/Unitarity_(physics) - Wiki.md",
