@@ -1,3 +1,8 @@
+https://en.wikipedia.org/wiki/Orchestrated_objective_reduction
+https://en.wikipedia.org/wiki/Quantum_mind
+https://en.wikipedia.org/wiki/Quantum_cognition
+https://en.wikipedia.org/wiki/Concept_learning
+https://en.wikipedia.org/wiki/Neural_network
 
 
 

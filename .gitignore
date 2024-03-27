@@ -14,7 +14,11 @@ yarn.lock
 .obsidian/**/data.json
 
 
+# Ignore personal files
+JOURNAL/
 
+# Ignore .webm files generated from whisper
+records/*.webm
 
 # Ignore Smart Connections folder
 .smart-connections

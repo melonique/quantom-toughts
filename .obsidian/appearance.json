@@ -1,4 +1,9 @@
 {
   "accentColor": "#ec659b",
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "Things",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Victor Mono",
+  "theme": "obsidian",
+  "nativeMenus": true,
+  "enabledCssSnippets": []
 }
