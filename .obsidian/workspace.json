@@ -71,11 +71,10 @@
             "id": "ea4e431bb7bbea26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "JOURNAL/Into pour la conférence Expérience Innovaiton Inclusion neurodivergence.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           },
@@ -166,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOURNAL/Into pour la conférence Expérience Innovaiton Inclusion neurodivergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +181,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JOURNAL/Into pour la conférence Expérience Innovaiton Inclusion neurodivergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +202,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JOURNAL/Into pour la conférence Expérience Innovaiton Inclusion neurodivergence.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,9 +214,17 @@
                 "file": "Chats/New Chat.md"
               }
             }
+          },
+          {
+            "id": "714e84cc2d70cf84",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -240,10 +243,10 @@
       "smart-second-brain:Smart Second Brain": false
     }
   },
-  "active": "08a4710007261d11",
+  "active": "ea4e431bb7bbea26",
   "lastOpenFiles": [
-    "Chats/New Chat.md",
     "JOURNAL/Into pour la conférence Expérience Innovaiton Inclusion neurodivergence.md",
+    "Chats/New Chat.md",
     "2024-03-28T02-53-20-586Z.md",
     "Records/2024-03-28T04-40-19-059Z.webm",
     "NOTES/Personnal Theories/Neuro-Spiritual Theory Trauma - Contrevalidation.md",
