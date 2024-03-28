@@ -3,7 +3,7 @@ https://en.wikipedia.org/wiki/Quantum_mind
 https://en.wikipedia.org/wiki/Quantum_cognition
 https://en.wikipedia.org/wiki/Concept_learning
 https://en.wikipedia.org/wiki/Neural_network
-
+https://en.wikipedia.org/wiki/Neurotransmitter
 
 
 ----- DONE: ----

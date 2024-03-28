@@ -37,7 +37,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOURNAL/Chakras.md",
+                "file": "NOTES/Project Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c0257cab2b8c477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/Personnal Theories/Neuro-Spiritual Theory Trauma - Contrevalidation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b979f45732489237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-28T02-53-20-586Z.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea4e431bb7bbea26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JOURNAL/Into pour la conférence Expérience Innovaiton Inclusion neurodivergence.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "total biology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 423.5
   },
   "right": {
     "id": "0a6fa51439602e72",
@@ -130,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOURNAL/Chakras.md",
+                "file": "JOURNAL/Into pour la conférence Expérience Innovaiton Inclusion neurodivergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JOURNAL/Chakras.md",
+                "file": "JOURNAL/Into pour la conférence Expérience Innovaiton Inclusion neurodivergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JOURNAL/Chakras.md"
+                "file": "JOURNAL/Into pour la conférence Expérience Innovaiton Inclusion neurodivergence.md"
               }
             }
           },
@@ -183,29 +219,13 @@
                 "file": "Chats/New Chat.md"
               }
             }
-          },
-          {
-            "id": "d999a6bb267b793b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "88c3c7ac9f815930",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 514.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,47 +237,47 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "whisper:Open recording controls": false,
-      "smart-second-brain:Smart Second Brain": false,
-      "gpt3-notes:GPT-3 Notes": false
+      "smart-second-brain:Smart Second Brain": false
     }
   },
-  "active": "8b0af2459a734901",
+  "active": "08a4710007261d11",
   "lastOpenFiles": [
+    "Chats/New Chat.md",
+    "JOURNAL/Into pour la conférence Expérience Innovaiton Inclusion neurodivergence.md",
+    "2024-03-28T02-53-20-586Z.md",
+    "Records/2024-03-28T04-40-19-059Z.webm",
+    "NOTES/Personnal Theories/Neuro-Spiritual Theory Trauma - Contrevalidation.md",
+    "Records/2024-03-28T02-53-20-586Z.webm",
+    "Records/2024-03-28T02-52-25-880Z.webm",
+    "2024-03-28T02-52-25-880Z.md",
+    "2024-03-28T02-52-04-781Z.md",
+    "Records/2024-03-28T02-52-04-781Z.webm",
     "NOTES/Research Notes/Therapie narative.md",
+    "NOTES/Research Notes/Types de therapies.md",
+    "NOTES/Correlations.md",
+    "NOTES/Project Management.md",
+    "README.md",
+    "JOURNAL/So Complice Review.md",
+    "Web Documentation & Scrapes/Pain travel trough generations.md",
+    "Web Documentation & Scrapes/The Symbolosphere, Conceptualiztion, Language and Neo-Dualism.pdf",
+    "Records/2024-03-28T01-26-04-232Z.webm",
+    "JOURNAL/Chakras.md",
+    "Scripts/Wikipedia.md",
+    "Scripts/Knowledge to add.md",
+    "Web Documentation & Scrapes/Wikipedia/Chemical_synapse - Wiki.md",
     "Records/2024-03-27T03-52-06-484Z.md",
     "Records/2024-03-27T03-52-06-484Z.webm",
-    "README.md",
-    "Untitled.md",
     "Records/2024-03-27T03-43-37-073Z.webm",
     "2024-03-27T03-43-37-073Z.md",
-    "Chats/New Chat.md",
     "MISSION SACRÉ/Chakras - mines.md",
-    "JOURNAL/Chakras.md",
     "JOURNAL",
     "MISSION SACRÉ",
-    "NOTES/Research Notes/Types de therapies.md",
-    "NOTES",
-    "NOTES/Personnal Theories/Neuro-Spiritual Theory Trauma - Contrevalidation.md",
-    "NOTES/Research Notes",
-    "Scripts/Wikipedia.md",
-    "Web Documentation & Scrapes/Studies/0612178.pdf",
-    "Web Documentation/Studies/0612178.pdf.crdownload",
     "Web Documentation & Scrapes/Wikipedia/Acupuncture - Wiki.md",
     "Web Documentation & Scrapes/Wikipedia/Critical_brain_hypothesis - Wiki.md",
     "Scrapes/Critical_brain_hypothesis - Wiki.md",
     "Scripts/Urls to save.md",
     "Web Documentation & Scrapes/Brain Enhancement Techniques Listed In a CIA Document.md",
     "Scripts/README.md",
-    "Scripts/Knowledge to add.md",
-    "Interpretations of quantum mechanics.md",
-    "traditional Chinese medicine.md",
-    "2024-03-25.md",
-    "Web Documentation & Scrapes/Studies/Brain Enhancement Techniques Listed In a CIA Document.pdf",
-    "Web Documentation & Scrapes/Wikipedia/Alternative_medicine - Wiki.md",
-    "Web Documentation & Scrapes/Wikipedia/Pseudoscience - Wiki.md",
-    "Web Documentation & Scrapes/Wikipedia/Einstein%27s_thought_experiments - Wiki.md",
-    "Web Documentation & Scrapes/Wikipedia/Newton%27s_law_of_universal_gravitation - Wiki.md",
-    "Untitled.canvas",
-    "Scripts/getHtml.js"
+    "Untitled.canvas"
   ]
 }
