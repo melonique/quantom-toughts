@@ -56,3 +56,19 @@ Quantom Thoughts is open-sourced under the MIT License.
 ## Contact
 
 For inquiries, discussions, or comments, reach out through [insert contact method]. Your curiosity and engagement are what propel this journey forward.
+
+
+
+
+
+
+
+
+https://www.facebook.com/reel/776024010746884?fs=e&s=TIeQ9V&mibextid=vNHAvl
+
+
+
+
+
+
+
