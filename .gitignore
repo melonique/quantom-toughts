@@ -13,12 +13,15 @@ yarn.lock
 # ignore data.json files with keys in the obsidian folder
 .obsidian/**/data.json
 
+# Ignore Workspace file
+.obsidian/workspace.json
 
 # Ignore personal files
 JOURNAL/
 
 # Ignore .webm files generated from whisper
 records/*.webm
+Records/*.mp4
 
 # Ignore Smart Connections folder
 .smart-connections

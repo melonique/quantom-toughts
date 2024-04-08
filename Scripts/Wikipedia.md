@@ -4,6 +4,7 @@ https://en.wikipedia.org/wiki/Quantum_cognition
 https://en.wikipedia.org/wiki/Concept_learning
 https://en.wikipedia.org/wiki/Neural_network
 https://en.wikipedia.org/wiki/Neurotransmitter
+https://en.wikipedia.org/wiki/How_to_Change_Your_Mind
 
 
 ----- DONE: ----

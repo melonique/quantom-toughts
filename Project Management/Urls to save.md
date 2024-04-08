@@ -11,3 +11,5 @@ https://www.unco.edu/assault-survivors-advocacy-program/learn_more/neurobiology_
 https://www.youtube.com/watch?v=hmtQPrH-gC4
 https://www.youtube.com/watch?v=zMK8bPEerEM
 https://youtu.be/m0rHZ_RDdyQ?si=hNmnoyQuTX1YRoRp
+https://www.eff.org/files/2013/11/15/20130629-wapo-prism.pdf
+https://www.sciencedirect.com/science/article/pii/S2005290117300390

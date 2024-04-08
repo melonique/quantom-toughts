@@ -3,6 +3,9 @@ Cette page se propose d'explorer une diversité d'expériences, de connaissances
 L'objectif est de tisser des liens étroits avec la science réelle, en embrassant des domaines aussi vastes que la médecine, la physique, et bien d'autres, afin de découvrir les intersections où le savoir ancestral et la compréhension moderne se rencontrent, se complètent, ou s'opposent.
 
 ---
+Exploring the intersections between human experience and various fields of study
+
+-------
 
 
 Humans can learn, learning psychology, Neural Plasticity, Cognitive Psychology
@@ -54,7 +57,7 @@ corrupted neuro-pathways are transmittable from parents to childrens, projet sen
 
 uncouncious hive-mind, raisonnance (tu atires ce que tu es), systeme critique au niveau sociétaire humain, 
 
-
+humanc can visit other realms, multiverse, higher dimentions, string theory, rick & morty, 
 
 Chat GPT propositions: 
 

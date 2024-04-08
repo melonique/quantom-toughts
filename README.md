@@ -3,7 +3,7 @@
 Welcome to the Obsidian's Notes repository for the Quantom Thoughts project, a journey into the fusion of intuition, quantum physics, and the vast capabilities of the human mind.
 
 ## For now, to start reading
-go to [NOTES/Correlations.md](./NOTES/Correlations.md)
+go to [NOTES/Correlations.md](Correlations.md)
 
 ## Project Overview
 

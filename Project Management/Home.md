@@ -1,28 +1,42 @@
 
-1. Focus on the META and the correlations of the "same" experiences
-	-  All types of therapies
-		- Medern
-	
-	- Spiritual
-	- Religions
-		- budhisme
-		- christianimse
-	- Special Researches (ex: The Gateway process)
-		- Gateway process
-		- 
-1. 
- 
+## Stratégie d'approche
 
-Aller cherher: 
-- étude sur les champs énergétique pendant les soins énergériques 
-- romans PSY changelings : Naelie Sings (tome 1)
-- 
-- 
+Je suis en mode éponge. 
+Je note toutes mes intuitions. toutes mes déductions sans les juger. 
+Sans les prouver. 
+Je note tout ce qu'on me propose, tous les sujets connexes aux quelles je penses.
+Je commence par focuser sur le coté META de la chose. 
 
 
 
+### Inbound Subjects to explore
 
-## Propositions of fields of data
+- [ ] étude sur les champs énergétique pendant les soins énergériques 
+- [ ] romans PSY changelings : Naelie Sings (tome 1)
+- [ ] The default mode network
+- [ ] nosology (categorisation des maladies)
+- [ ] Psychadelics (reduce the ego )
+- [ ] Book: How to Change Your mind 
+- [ ] All types of therapies
+	- [ ] Modern
+	- [ ] Hollistic
+	- [ ] Kiné
+	- [ ] biologie totale
+	- [ ] symbolique
+	- [ ] 
+- [ ] Religions
+- [ ] Spirituality concepts
+- [ ] Special Researches
+- [ ] parapsychology
+- [ ] neurolink
+- [ ] 3 body problem (netflix)
+
+
+
+
+
+
+## Propositions of fields of data from AI
 
 - [ ] Physics
   - [ ] Quantum Mechanics

@@ -1,0 +1,27 @@
+
+- Expérience humaine
+- Physique
+- Psychiatrie
+- Neurologie
+- Génétique
+- Philosophie
+- Biologie
+- Psychologie
+- Informatique
+- Médecine
+- Spirituality
+- Anthropologie
+- Études des religions
+- Histoire des sciences
+- Arts et Humanités
+	-  Littérature
+	- Histoire de l'art
+	- Musique
+	- Théâtre
+	- Cinéma
+	- Danse
+	- Arts visuels (peinture, sculpture, photographie)
+	- Philosophie de l'art
+	- Études culturelles
+	- Langues et linguistique
+	- Archéologie

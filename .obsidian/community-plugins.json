@@ -2,8 +2,10 @@
   "obsidian-tasks-plugin",
   "omnisearch",
   "obsidian-git",
-  "whisper",
   "smart-second-brain",
   "obsidian-style-settings",
-  "title-generator"
+  "title-generator",
+  "whisper",
+  "table-editor-obsidian",
+  "notion-like-tables"
 ]
