@@ -60,15 +60,3 @@ For inquiries, discussions, or comments, reach out through [insert contact metho
 
 
 
-
-
-
-
-https://www.facebook.com/reel/776024010746884?fs=e&s=TIeQ9V&mibextid=vNHAvl
-
-
-
-
-
-
-
