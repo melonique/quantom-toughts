@@ -29,7 +29,7 @@ https://www.facebook.com/reel/412259027869240
 
 emdr therapy
 
-
+https://www.facebook.com/reel/2131842360487363?fs=e&s=TIeQ9V&mibextid=vNHAvl
 
 
 
