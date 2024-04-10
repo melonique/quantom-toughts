@@ -26,3 +26,11 @@ Toujours avec ces singes, les changements sont observés au moment ou les neuron
 Evolution cerveau neurodivergent
 https://www.facebook.com/reel/412259027869240
 
+
+emdr therapy
+
+
+
+
+
+
