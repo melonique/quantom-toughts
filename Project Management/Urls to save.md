@@ -14,3 +14,4 @@ https://youtu.be/m0rHZ_RDdyQ?si=hNmnoyQuTX1YRoRp
 https://www.eff.org/files/2013/11/15/20130629-wapo-prism.pdf
 https://www.sciencedirect.com/science/article/pii/S2005290117300390
 https://www.psychologytoday.com/us/blog/hot-thought/202406/explaining-the-nbc-theory-of-consciousness?amp
+https://www.sciencedaily.com/releases/2024/05/240509110825.htm?fbclid=IwZXh0bgNhZW0CMTEAAR2W_O_7fkzBd2z6Qbo8v0tPNFdrXR1hRi_-hYlFJfCmbZsTn0GFYbxyppQ_aem_RHKxnI1R3Tms-JwowDxDZQ
