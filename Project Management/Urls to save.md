@@ -1,3 +1,6 @@
+https://neurosciencenews.com/quantum-process-consciousness-27624/
+
+
 https://en.wikipedia.org/wiki/Critical_brain_hypothesis
 https://en.wikipedia.org/wiki/Critical_brain_hypothesis
 https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001700210016-5.pdf
